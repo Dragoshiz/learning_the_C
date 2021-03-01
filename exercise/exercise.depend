@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1609856717 source:/home/dragos/the C/exercise/main.c
+
+1609860446 source:/home/dragos/the C/exercise/ifs.c
+	<stdio.h>
+	<stdlib.h>
+
+1609856695 source:/home/dragos/the C/exercise/demo.c
+
